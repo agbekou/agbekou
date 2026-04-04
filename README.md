@@ -12,11 +12,11 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Identity and Access Management  | <a href="https://github.com/agbekou/Azure-IAM-Lab/blob/main/README.md"> Azure IAM Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/agbekou/Cloud-Based-Threat-Hunting/blob/main/README.md">Cloud-Based-Threat-Hunting </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 
 ### Tools
