@@ -3,11 +3,11 @@
 
 I’m a Cybersecurity Professional who believes that effective security is built at the intersection of data and human behavior. My background in Data Science and Sociology allows me to approach threat analysis and log investigations with a broader perspective. Whether it's dissecting malware or remediating complex incidents, I focus on building resilient systems that stand up to modern threats.
 
-## Objective
+# Objective
 
 Cybersecurity Professional with a multidisciplinary background in Data Science and Social Sciences, specializing in the end-to-end lifecycle of security incidents. Proven track record in malware analysis and SOC operations. Seeking to bring my unique analytical perspective to a forward-thinking security team to enhance threat detection and strengthen organizational resilience.
 
-## Skills
+# Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +19,7 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
 
 
 
-### Tools
+# Tools
 
 
 ### Network
@@ -57,7 +57,7 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
 </div>
 
 
-## Certifications
+# Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
@@ -65,7 +65,7 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
   
 </div>
 
-## Projects
+# Projects
 - <a href="https://github.com/agbekou/Azure-IAM-Lab/blob/main/README.md"> Azure IAM Lab</a>
 - <a href="https://github.com/agbekou/Cloud-Based-Threat-Hunting/blob/main/README.md">Cloud-Based-Threat-Hunting </a>
 - <a href="https://github.com/agbekou/Brute-Force-Monitoring-Automated-Detection-Engineering/blob/main/README.md">Brute-Force-Monitoring-Automated-Detection-Engineering</a>
