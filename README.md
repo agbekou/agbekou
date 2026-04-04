@@ -13,8 +13,8 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
 |-----------------------------------------------|----------------------------|
 | Identity and Access Management  | <a href="https://github.com/agbekou/Azure-IAM-Lab/blob/main/README.md"> Azure IAM Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/agbekou/Cloud-Based-Threat-Hunting/blob/main/README.md">Cloud-Based-Threat-Hunting </a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/agbekou/Brute-Force-Monitoring-Automated-Detection-Engineering/blob/main/README.md">Brute-Force-Monitoring-Automated-Detection-Engineering</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
 
