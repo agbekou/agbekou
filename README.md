@@ -66,5 +66,6 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/agbekou/Azure-IAM-Lab/blob/main/README.md"> Azure IAM Lab</a>
+- <a href="https://github.com/agbekou/Cloud-Based-Threat-Hunting/blob/main/README.md">Cloud-Based-Threat-Hunting </a>
+- <a href="https://github.com/agbekou/Brute-Force-Monitoring-Automated-Detection-Engineering/blob/main/README.md">Brute-Force-Monitoring-Automated-Detection-Engineering</a>
