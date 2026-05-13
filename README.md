@@ -65,7 +65,7 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
 </div>
 
 # Projects
-- <a href="https://github.com/agbekou/Azure-IAM-Lab/blob/main/README.md"> Azure IAM Lab</a>
+- <a href="https://github.com/agbekou/Azure-IAM-Governance-Lab-Implementing-Zero-Trust-via-Least-Privilege/blob/main/README.md"> Azure-IAM-Governance-Lab-Implementing-Zero-Trust-via-Least-Privilege</a>
 - <a href="https://github.com/agbekou/Cloud-Based-Threat-Hunting/blob/main/README.md">Cloud-Based-Threat-Hunting </a>
 - <a href="https://github.com/agbekou/Brute-Force-Monitoring-Automated-Detection-Engineering/blob/main/README.md">Brute-Force-Monitoring-Automated-Detection-Engineering</a>
 - <a href="https://github.com/agbekou/Validating-GRC-Policies-with-Technical-Simulations/blob/main/README.md">Validating-GRC-Policies-with-Technical-Simulations</a>
