@@ -20,14 +20,6 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
 
 # Tools
 
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    
-</div>
-
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -55,6 +47,12 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
     
 </div>
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    
+</div>
 
 # Certifications
 
@@ -70,4 +68,5 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
 - <a href="https://github.com/agbekou/Brute-Force-Monitoring-Automated-Detection-Engineering/blob/main/README.md">Brute-Force-Monitoring-Automated-Detection-Engineering</a>
 - <a href="https://github.com/agbekou/Validating-GRC-Policies-with-Technical-Simulations/blob/main/README.md">Validating-GRC-Policies-with-Technical-Simulations</a>
 - <a href="https://github.com/agbekou/Network-Traffic-Analysis-IP-Attribution-Splunk-SIEM-s/blob/main/README.md">Network-Traffic-Analysis-IP-Attribution-Splunk-SIEM-</a>
+- <a href="https://github.com/agbekou/Network-Traffic-Analysis-IP-Attribution-Splunk-SIEM-/blob/main/README.md">Network-Traffic-Analysis-IP-Attribution-Splunk-SIEM-</a>
 
