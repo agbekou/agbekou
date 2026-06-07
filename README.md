@@ -44,7 +44,7 @@ Cybersecurity Professional with a multidisciplinary background in Data Science a
     <img src="https://img.shields.io/badge/-NIST_SP_800_Series-4D4D4D?&style=for-the-badge&logo=book&logoColor=white" />
     <img src="https://img.shields.io/badge/-NIST_RMF-4D4D4D?&style=for-the-badge&logo=databricks&logoColor=white" />
     <img src="https://img.shields.io/badge/PCI_DSS-Compliance-006A71?style=for-the-badge&logo=pci-security-standards-council&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/FedRAMP-Compliance-006A71?style=for-the-badge&logo=government&logoColor=white" />
 </div>
 
 ### Network
